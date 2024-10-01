@@ -6,8 +6,8 @@
 </p>
 
 
-![](https://github.com/Dungeon_game_pico8/screenshots/gif1.gif)
-![](https://github.com/Dungeon_game_pico8/screenshots/gif2.gif)
+![](screenshots/gif1.gif)
+![](screenshots/gif2.gif)
 
 
 <p align="center">
