@@ -2,8 +2,13 @@
 
 <p align="center">
 <img alt="Lua" src="https://img.shields.io/badge/Made%20in%20lua-3d41c9?style=flat-square&logo=lua">
-<img alt="Pico8" src="https://img.shields.io/badge/Made%20in%20pico8-3d41c9?style=flat-square&link=https%3A%2F%2Flexaloffle.itch.io%2Fpico-8">
+<img alt="Pico 8" src="https://img.shields.io/badge/Made%20in%20pico8-ad2289?style=flat-square&link=https%3A%2F%2Flexaloffle.itch.io%2Fpico-8">
 </p>
+
+
+![](https://github.com/Dungeon_game_pico8/screenshots/gif1.gif)
+![](https://github.com/Dungeon_game_pico8/screenshots/gif2.gif)
+
 
 <p align="center">
   <img src="screenshots/djn_copy_1.png" width="300" title="">
