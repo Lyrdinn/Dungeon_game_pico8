@@ -1,6 +1,11 @@
 <h1 align="center"> WIP : Pico8 procedural dungeon game </h1>
 
 <p align="center">
+<img alt="Lua" src="https://img.shields.io/badge/Made%20in%20lua-3d41c9?style=flat-square&logo=lua">
+<img alt="Pico8" src="https://img.shields.io/badge/Made%20in%20pico8-3d41c9?style=flat-square&link=https%3A%2F%2Flexaloffle.itch.io%2Fpico-8">
+</p>
+
+<p align="center">
   <img src="screenshots/djn_copy_1.png" width="300" title="">
   <img src="screenshots/djn_copy_2.png" width="300" title="">
   <img src="screenshots/djn_copy_3.png" width="300" title="">
