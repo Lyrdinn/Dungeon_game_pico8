@@ -5,10 +5,10 @@
 <img alt="Pico 8" src="https://img.shields.io/badge/Made%20in%20pico8-ad2289?style=flat-square&link=https%3A%2F%2Flexaloffle.itch.io%2Fpico-8">
 </p>
 
-
-![](screenshots/gif1.gif)
-![](screenshots/gif2.gif)
-
+<p align="center">
+  <img src="screenshots/gif1.gif" alt="Pico8 gif"/>
+  <img src="screenshots/gif2.gif" alt="Pico8 gif"/>
+</p>
 
 <p align="center">
   <img src="screenshots/djn_copy_1.png" width="300" title="">
