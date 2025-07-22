@@ -17,9 +17,11 @@
   <img src="screenshots/djn_copy_4.png" width="300" title="">
 </p>
 
+<h2> 🎮 Itch.io Page https://lyrdinn.itch.io/shattered-hourglass </h2>
+
 <p>
-This game is not out yet but I put the dungeons code here for my portfolio.
-A pico8 game with currently 1 month and a half of work.
+Shattered Hourglass is a dungeon crawler pico-8 game and my first solo release. Time has been fractured, fight your way trough dungeons to save the lands from corruption.
+Use your spells, your items and face each enemy with their own behaviours. Travel trough procedurally generated corridors.
   
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 For this game I realised : 
