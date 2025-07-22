@@ -1,4 +1,4 @@
-<h1 align="center"> WIP : Pico8 procedural dungeon game </h1>
+<h1 align="center"> Shattered Hourglass </h1>
 
 <p align="center">
 <img alt="Lua" src="https://img.shields.io/badge/Made%20in%20lua-3d41c9?style=flat-square&logo=lua">
@@ -22,6 +22,8 @@
 <p>
 Shattered Hourglass is a dungeon crawler pico-8 game and my first solo release. Time has been fractured, fight your way trough dungeons to save the lands from corruption.
 Use your spells, your items and face each enemy with their own behaviours. Travel trough procedurally generated corridors.
+
+Here are some code extracts from the procedurally generated dungeons.
   
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 For this game I realised : 
